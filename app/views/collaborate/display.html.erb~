@@ -5,17 +5,17 @@
       
     <li class="active">Providers</li>
     </ul>
-<h1>Integrate Your Providers</h1>
+<h1>Providers</h1>
 <br><br><br>
     <ul class="nav nav-pills">
     <li class="nav-header">
-   <h1> Providers</h1>
-    </li>
-   <br><br><br><br><br>
+  
+    </li> <h3>Below is a list of providers available for integration</h3>
+   <br><br><br>
 <li>
-    <a href="http://www.google.com/a" > <%= image_tag "Google_apps.png", :size => "128x128", :alt => "Google Apps" %></a>
+    <a href="http://www.google.com/a" > <%= image_tag "Google_apps.png", :size => "128x128", :alt => "Google Apps" %>Google Apps</a>
     </li>
     <li>
-    <a href="http://salesforce.com"><%= image_tag "salesforce.png", :size => "128x128", :alt => "Sales Force" %></a>
+    <a href="http://salesforce.com"><%= image_tag "salesforce.png", :size => "128x128", :alt => "Sales Force" %>Salesforce</a>
     </li>
     </ul>

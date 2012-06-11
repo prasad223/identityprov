@@ -154,7 +154,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   execjs
   gretel
- jquery-rails
+  jquery-rails
   omniauth-facebook
   omniauth-openid
   omniauth-twitter
