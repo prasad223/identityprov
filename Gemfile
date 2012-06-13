@@ -11,6 +11,7 @@ gem 'omniauth-facebook'
 gem 'omniauth-openid'
 gem 'execjs'
 gem 'gretel'
+gem 'engineyard'
 
 # Gems used only for assets and not required
 # in production environments by default.
